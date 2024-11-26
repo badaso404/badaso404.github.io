@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       setTimeout(() => {
         if (!isMouseOverItem) {
-          changeBg("./../assets/bg-1.jpg");
+          changeBg("./../assets/bg-115.jpg");
           if (activePreview) {
             gsap.to(activePreview, { opacity: 0, duration: 0.1 });
             const defaultPreview = document.querySelector(".preview.default");

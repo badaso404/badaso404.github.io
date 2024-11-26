@@ -10,45 +10,45 @@ export const mapClasses = [
 
 export const previews = [
   {
-    img: "./assets/bg-1.jpg",
+    img: "./assets/bg-9.jpg",
     title: "Nama",
     tags: "Nama Gua Bagas Pratama",
     description:
-      "Gua anak pertama dari 4 bersaudara, gua lahir 4 april 2001, ohh iya zodiak gua aries yang kalem ye",
+      "Gua anak pertama dari 4 bersaudara, gua lahir 4 april 2001, ohh iya zodiak gua aries",
   },
   {
-    img: "./assets/bg-2.jpg",
+    img: "./assets/bg-13.jpg",
     title: "umur",
     tags: "Umur gua 23 tahun",
     description:
-      "Di Umur yang ke 23 ini gua berharap bisa bergabung menjadi part of cretivox batch spesial edtion",
+      "Di Umur yang ke 23 ini gua berharap bisa bergabung menjadi part of company yang gua apply",
   },
   {
     img: "./assets/bg-3.jpg",
     title: "Kuliah dimana?",
-    tags: "Kuliah Gua Di Universitas Sebelas Maret",
+    tags: "Kuliah Gua di Binus University",
     description:
-      "Btw gua fresh graduate dari kampus UNS ohh iya prodi gua D3 Teknik Informatika",
+      "Btw gua fresh graduate dari kampus UNS ohh iya prodi gua D3 Teknik Informatika dan lanjut S1 di Binus University",
   },
   {
-    img: "./assets/bg-4.jpg",
-    title: "Divisi",
-    tags: "Divisi yang gua ambil itu FrontEnd Developer",
+    img: "./assets/bg-11.jpg",
+    title: "Skills",
+    tags: "Skills yang gua punya itu banyak",
     description:
-      "Gua juga ada pengalaman menjadi frontend sekitar 6 bulan.andaikan lolos dicretivox ini,semoga gua bisa berkembang bersama rekan rekan semua ",
+      "Gua juga ada pengalaman menjadi fullstack developer selama 3 bulan, Game developer 1 tahun, mobile developer 6 bulan, dan sekarang lagi menekuni frontend developer ke jenjang profesional ",
   },
   {
     img: "./assets/bg-5.jpg",
-    title: "HT",
-    tags: "jago nyari link streaming",
+    title: "Hobby",
+    tags: "olahraga, Semua olahraga gua suka",
     description:
-      " gua anak kost yang dimana ga ada tv. itulah saatnya gua beraksi dan temen temen gua selalu minta infoin linknya",
+      "Gua bisa dibilang multitalent dalam bidang olahraga mulai dari basket, futsal, bulutangkis, apapun itu yang berkaitan dengan olahraga gua suka. btw bokap gua guru olahraga",
   },
   {
-    img: "./assets/bg-6.jpg",
-    title: "harus diterima?",
-    tags: "Ga harus si intinya gua udah berusaha yaps nothing to lose aja",
+    img: "./assets/bg-7.jpg",
+    title: "Salam kenal",
+    tags: "Salam kenal semuanya ",
     description:
-      "Btw gua pengen banget di umur yang sekarang kenal dengan temen temen yang berjuang buat dirinya,goals kita sama brooo",
+      "gua harap kalian yang mengunjungi website gua yang gabut ini semoga kita bisa jalin relasi yang positif dan semoga kalian sukses semua ya hihihi",
   },
 ];
